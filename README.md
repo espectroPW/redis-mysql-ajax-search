@@ -28,8 +28,6 @@
 <ol>
   <li>
     <p>Sklonuj repozytorium:</p>
-    <pre><code>git clone [https://github.com/username/realtime-search.git](https://github.com/username/realtime-search.git)
-cd realtime-search</code></pre>
   </li>
   <li>
     <p>Zainstaluj zależności:</p>
