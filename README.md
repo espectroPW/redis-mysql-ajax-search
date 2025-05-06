@@ -261,13 +261,6 @@ INSERT INTO articles (title, content) VALUES
 <h2>📝 Licencja</h2>
 
 <p>Rozpowszechniane na licencji MIT. Zobacz <code>LICENSE</code> aby uzyskać więcej informacji.</p>
-
-<h2>📞 Kontakt</h2>
-
-<p>Twoje Imię - <a href="https://twitter.com/username">@username</a> - email@example.com</p>
-
-<p>Link do projektu: <a href="https://github.com/username/realtime-search">https://github.com/username/realtime-search</a></p>
-
 <hr>
 
 <p align="center">
